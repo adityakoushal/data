@@ -1,0 +1,17 @@
+AXIL SHEET FOR Aditya koushal
+------------------------------------
+Student ID: 123
+Roll Number: 873
+Name: Aditya koushal
+Address: 134 hammal colony
+
+Marks Obtained:
+Subject 1: 9
+Subject 2: 6
+Subject 3: 8
+Subject 4: 6
+Subject 5: 8
+------------------------------------
+Total Marks: 37
+Percentage: 7.40%
+------------------------------------
